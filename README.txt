@@ -10,3 +10,4 @@ Moramo da napravimo ispravku
 Radimo dalje
 >>>>>>> ispravka1
 idemo na vasar
+Provara
