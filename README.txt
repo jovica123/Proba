@@ -4,3 +4,4 @@ Idemo dalje
 Vezba,vezba i samo vezba
 Crvena Zvezda dobila galatasaraj
 Moramo da napravimo ispravku
+Radimo dalje
