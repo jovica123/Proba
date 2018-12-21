@@ -12,3 +12,4 @@ Radimo dalje
 idemo na vasar
 Provara
 Sudar sa prethodnom linijom
+Vezbamo sa tagovima
