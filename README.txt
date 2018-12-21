@@ -11,3 +11,4 @@ Radimo dalje
 >>>>>>> ispravka1
 idemo na vasar
 Provara
+Vezbamo sa tagovima
