@@ -1,6 +1,7 @@
 Adding more code
 <<<<<<< HEAD
 Adding more code yet
+Adding more code yet
 =======
 Fix1
 >>>>>>> 2dfbf23... Cherry-picking changes
