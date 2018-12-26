@@ -11,3 +11,5 @@ Radimo dalje
 >>>>>>> ispravka1
 idemo na vasar
 Provara
+Sudar sa prethodnom linijom
+Vezbamo sa tagovima
