@@ -10,10 +10,10 @@ Moramo da napravimo ispravku
 Necemo dalje
 >>>>>>> ispravka1
 idemo na vasar
-Provara
+
 Sudar sa prethodnom linijom
 Vezbamo sa tagovima
-Jovica Obradovic
+Drakula
 Jos nekoliko promena
 Idemo 
 Zvezda Valensija
