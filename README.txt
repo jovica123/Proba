@@ -7,7 +7,7 @@ Crvena Zvezda dobila galatasaraj
 Daj da probramo merge
 =======
 Moramo da napravimo ispravku
-Radimo dalje
+Necemo dalje
 >>>>>>> ispravka1
 idemo na vasar
 Provara
