@@ -14,3 +14,6 @@ Provara
 Sudar sa prethodnom linijom
 Vezbamo sa tagovima
 Jovica Obradovic
+Jos nekoliko promena
+Idemo 
+Zvezda Valensija
